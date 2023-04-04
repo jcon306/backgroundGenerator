@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcon306/backgroundGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcon306/backgroundGenerator/issues"
+  },
+  "homepage": "https://github.com/jcon306/backgroundGenerator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
